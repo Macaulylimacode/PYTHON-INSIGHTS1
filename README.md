@@ -4,40 +4,50 @@
 
 # Sobre o projeto
 
-Python-Power-Up_automa-o, automação de preenchimento de dados  para uma hospedagem.
 
-## Seleção do chrome
-<div align="center">
-  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/5ad88f0f-ac7f-4565-812f-54657acd256f"/>
-</div>
 
-## Login e senha da hospedagem
-<div align="center">
-  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/f01c00f9-93a7-4200-a6eb-bc8255f81e92"/>
-</div>
+PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de cliente da empresa X. Conclusão da analise foi que a empresa de forma alguma pode deixar atrasar até 20 dias o pagmento mensal de seus cliente. Podendo ser resolvido em ligação com propostas de negociação menor ou igual a 05 lingações.
 
-## Preenchimento do sistema
+## Importação da tabela
 
-<div align="center">
-  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/8d9badff-066a-43ab-9d67-aee8aed1cf5b"/>
-</div>
+### importação da tabela, visulização da mesma, assim podemos estudar  detalhamente as informações necessarias.
 
-## Salvando no sistema
+![1](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/655a8cc9-411a-4476-a7a3-bf1a0ce075bf)
 
-<div align="center">
-  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/d6a75135-056b-4b27-ae67-13c9cfa3e3c0"/>
-</div>
+
+## Separação
+
+### separação das informações que de fato necessitamos para analise.
+
+![2](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/715c737f-72bc-4e0c-b967-2459e425afbe)
+
+
+## Analise aprofundada
+
+### analise aprofundada para que seja realizada a conclusão e possa sair um resultado satisfatório.
+
+![3](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/b07cda3b-ad78-4b71-8c48-b143798d9507)
+
+
+## Gráfico interativo com resultado
+
+![4](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/849cfe89-7e3f-40e6-a88e-e90ecfc027e8)
+![5](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/008bd2a8-c38c-4644-af8c-fd861de316c1)
+
+## Resultado final
+
+![6](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/345c89f4-8421-464d-9684-222e68862c0c)
+
+
 
 # Tecnologias utilizadas
 ## Linguagem
 - Python
 ## Bibliotecas
-- pyautogui
+- plotly
 - pandas
-- time
 ## Implantação em produção
 - jupyter
-- vscode
 - pycharm
 
 # Como executar o projeto

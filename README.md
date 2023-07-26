@@ -6,7 +6,7 @@
 
 
 
-PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de cliente da empresa X. Conclusão da analise foi que a empresa de forma alguma pode deixar atrasar até 20 dias o pagmento mensal de seus cliente. Podendo ser resolvido em ligação com propostas de negociação menor ou igual a 05 lingações.
+PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de cliente da empresa X. Conclusão da analise foi que a empresa de forma alguma pode deixar atrasar até 20 dias o pagamento mensal de seus cliente. Podendo ser resolvido em ligação com propostas de negociação menor ou igual a 05 ligações.
 
 ## Importação da tabela
 

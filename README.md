@@ -54,10 +54,10 @@ PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de clie
 
 ```bash
 # clonar repositório
-git clone github.com/Macaulylimacode/Python-Power-Up_automa-o/new/master?readme=1
+git clone github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/PYTHON%20INSIGHTS.py
 
 # entrar na pasta do projeto
-cd Python-Power-Up_automa-o
+cd PYTHON-INSIGHTS1
 
 # executar o projeto
 ./mvnw spring-boot:run

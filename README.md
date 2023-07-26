@@ -10,7 +10,7 @@ PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de clie
 
 ## Importação da tabela
 
-### importação da tabela, visulização da mesma, assim podemos estudar  detalhamente as informações necessarias.
+### importação da tabela, visualização da mesma, assim podemos estudar  detalhamente as informações necessarias.
 
 ![1](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/assets/139823222/655a8cc9-411a-4476-a7a3-bf1a0ce075bf)
 

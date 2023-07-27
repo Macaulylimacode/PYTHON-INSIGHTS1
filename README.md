@@ -54,7 +54,7 @@ PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de clie
 
 ```bash
 # clonar repositório
-git clone github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/PYTHON%20INSIGHTS.py
+git clone https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/PYTHON%20INSIGHTS.py
 
 # entrar na pasta do projeto
 cd PYTHON-INSIGHTS1

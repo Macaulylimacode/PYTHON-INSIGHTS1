@@ -43,6 +43,7 @@ PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de clie
 
 
 # Tecnologias utilizadas
+
 ## Linguagem
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

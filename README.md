@@ -1,7 +1,7 @@
 # PYTHON-INSIGHTS1
 
-[![NPM](https://img.shields.io/npm/l/react)](https://https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/edit/master/LICENSE) 
-[![GNU](https://img.shields.io/github/license/{username}/{repo-name}.svg)](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/LICENSE.1)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/LICENSE) 
+
 
 # Sobre o projeto
 

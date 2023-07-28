@@ -1,6 +1,7 @@
 # PYTHON-INSIGHTS1
 
 [![NPM](https://img.shields.io/npm/l/react)](https://https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/edit/master/LICENSE) 
+[![GNU](https://img.shields.io/github/license/{username}/{repo-name}.svg)](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/LICENSE.1)
 
 # Sobre o projeto
 
@@ -42,13 +43,18 @@ PYTHON-INSIGHT, projeto de analisar dados para ter informação de perca de clie
 
 # Tecnologias utilizadas
 ## Linguagem
-- Python
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## Bibliotecas
 - plotly
 - pandas
-## Implantação em produção
-- jupyter
-- pycharm
+## IDE
+
+![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 
 # Como executar o projeto
 

@@ -1,6 +1,7 @@
 # PYTHON-INSIGHTS1
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/LICENSE) 
+[![BOOST](https://img.shields.io/github/license/{blob}/{master}.svg)](https://github.com/Macaulylimacode/PYTHON-INSIGHTS1/blob/master/LICENSE.1)
 
 
 # Sobre o projeto
